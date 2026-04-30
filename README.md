@@ -25,7 +25,7 @@ Upload `.txt`, `.pdf`, or `.docx` files, and the system instantly extracts and f
 
 ### 3. Dynamic Traditional ML vs. LLM Comparison
 The system runs a real-time Traditional "Bag-of-Words" baseline against the RoBERTa model, mathematically demonstrating the LLM's superiority in avoiding false positives and understanding contextual intent.
-![Architecture Comparison](Outputs/image_d55979.png)
+![Architecture Comparison](Outputs/architecture_comparison.png)
 
 ### 4. Backend Model Testing Pipeline
 The repository includes the complete machine learning lifecycle scripts, from data preparation to terminal-based model confidence testing.
