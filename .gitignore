@@ -1,3 +1,5 @@
-__pycache__/
-.DS_Store
+.venv/
 legal_shield_model/
+logs/
+results/
+__pycache__/
